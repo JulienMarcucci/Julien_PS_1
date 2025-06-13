@@ -1,0 +1,4 @@
+FirstName,LastName,Username,OU,Password
+Vincent,Andréo,vincent.andréo,"OU=Informatique,DC=formation,DC=local",P@ssw0rd123
+Louka,Lavenir,louka.lavenir,"OU=Informatique,DC=formation,DC=local",P@ssw0rd123
+Rémi,Bears,rémi.bears,"OU=Informatique,DC=formation,DC=local",P@ssw0rd123
